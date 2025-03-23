@@ -31,6 +31,9 @@
    - 在新创建的仓库页面中，点击"Import code"按钮
    - 在"Your old repository's clone URL"中输入：`https://github.com/pufeng-yi/birthday-basicmodel.git`
    - 点击"Begin import"，等待导入完成
+     
+4.**（另选）一键操作：右上角点击fork，直接导入新仓库**：
+   等待导入完成即可
 
 ### 二、配置邮箱和密钥（保证能发送邮件）
 
